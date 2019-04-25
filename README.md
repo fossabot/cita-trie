@@ -1,6 +1,7 @@
 ## CITA-Trie
 
 [![Latest Version](https://img.shields.io/crates/v/cita_trie.svg)](https://crates.io/crates/cita_trie)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyejiayu%2Fcita-trie.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyejiayu%2Fcita-trie?ref=badge_shield)
 [![](https://travis-ci.org/cryptape/cita-trie.svg?branch=master)](https://travis-ci.org/cryptape/cita-trie)
 [![](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/cryptape/cita-trie/blob/master/LICENSE)
 
@@ -107,3 +108,7 @@ Because the `parity/trie` code is too difficult to understand, and the user need
 `CITA-trie` is more user-friendly, users can easily implement custom decoders without paying attention to trie implementation details, and provide an implementation of RLP by default.
 
 However, this project is currently not perfect, stability and performance testing has not been done, it is not recommended to use in production environments
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyejiayu%2Fcita-trie.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyejiayu%2Fcita-trie?ref=badge_large)
